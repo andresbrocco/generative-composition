@@ -10,4 +10,3 @@ patches are based on the book "The study of counterpoint", by Johan Joseph Fux.
 # ToDo:
 
 - Collaborative contribution to this repository.
-- Object that receives degree and returns midi note. Parameters: key, mode, scale.
